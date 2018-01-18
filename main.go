@@ -6,7 +6,7 @@
 package main
 
 import (
-    "code.google.com/p/go.net/websocket"
+    "github.com/kellegous/websocket"
     "expvar"
     "flag"
     "fmt"
